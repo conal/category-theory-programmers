@@ -13,7 +13,6 @@ header-includes:
     - \usepackage{tikz-cd}
     - \usepackage{amsthm}
     - \usepackage[T1]{fontenc}
-    - \usepackage{palatino}
     - \usepackage[scaled]{beramono}
     - \usepackage{float}
     - \usepackage{epigraph}
